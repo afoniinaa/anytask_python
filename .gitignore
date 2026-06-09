@@ -1,0 +1,5 @@
+gitignore
+
+__pycache__/
+test_phil.py
+test_homestat.py
